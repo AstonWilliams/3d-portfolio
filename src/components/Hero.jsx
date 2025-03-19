@@ -8,7 +8,7 @@ const Hero = () => {
   <section
     className="relative w-full h-screen mx-auto"
     style={{
-      backgroundImage: 'url("src/assets/bg4.jpg")', // Use optimized WebP
+      backgroundImage: 'url("src/assets/herobg.jpg")', // Use optimized WebP
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
